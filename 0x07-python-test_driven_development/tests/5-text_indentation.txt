@@ -1,0 +1,81 @@
+lexiscode
+/
+alx-higher_level_programming
+Public
+forked from Nightburnn/alx-higher_level_programming
+Code
+Pull requests
+Actions
+Projects
+Security
+Insights
+alx-higher_level_programming/0x07-python-test_driven_development/tests/5-text_indentation.txt
+@Nightburnn
+Nightburnn test cases
+ 1 contributor
+65 lines (48 sloc)  849 Bytes
+"""
+TEST FILE FOR INDENTATION
+"""
+
+>>> text_indentation = __import__('5-text_indentation').text_indentation
+
+>>> text_indentation("poop")
+poop
+
+>>> text_indentation("po.op")
+po.
+<BLANKLINE>
+op
+
+>>> text_indentation("po: op")
+po:
+<BLANKLINE>
+op
+
+>>> text_indentation("po.     op")
+po.
+<BLANKLINE>
+op
+
+>>> text_indentation("") is None
+True
+
+>>> text_indentation("poop:      ?    ")
+poop:
+<BLANKLINE>
+?
+<BLANKLINE>
+
+
+>>> text_indentation("hello:      ?    ")
+hello:
+<BLANKLINE>
+?
+<BLANKLINE>
+
+
+>>> text_indentation("hi...")
+hi.
+<BLANKLINE>
+.
+<BLANKLINE>
+.
+<BLANKLINE>
+
+>>> text_indentation("             test     ")
+test
+
+
+=========== ERRORS ===========
+
+>>> text_indentation(3)
+Traceback (most recent call last):
+...
+TypeError: text must be a string
+
+>>> text_indentation(None)
+Traceback (most recent call last):
+...
+TypeError: text must be a string
+
