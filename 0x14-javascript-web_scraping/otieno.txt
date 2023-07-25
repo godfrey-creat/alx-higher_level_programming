@@ -1,0 +1,490 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en-US"> <!--<![endif]-->
+<head>
+	<link rel="shortcut" href="https://149810548.v2.pressablecdn.com/wp-content/uploads/2015/11/kra_favicon.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="https://149810548.v2.pressablecdn.com/wp-content/uploads/2015/11/kra_favicon.ico" type="image/x-icon" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1.0, maximum-scale=4.0, user-scalable=yes" />	<link rel="alternate" type="application/rss+xml" title="KRA Corporation RSS2 Feed" href="https://www.kra.com/feed/" />
+	<link rel="pingback" href="https://www.kra.com/xmlrpc.php" />
+	<link rel="preconnect" href="https://fonts.gstatic.com">
+	<link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;300;500;700;900&display=swap" rel="stylesheet">
+	<link rel="preconnect" href="https://fonts.gstatic.com">
+	<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap" rel="stylesheet">
+	<title>Page not found | KRA Corporation</title>
+		<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//stats.wp.com' />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.kra.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.2.2"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){p.clearRect(0,0,i.width,i.height),p.fillText(e,0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(t,0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(p&&p.fillText)switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s("\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!s("\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!s("\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!s("\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css' href='https://149810548.v2.pressablecdn.com/wp-includes/css/dist/block-library/style.min.css?ver=6.2.2' type='text/css' media='all' />
+<style id='wp-block-library-inline-css' type='text/css'>
+.has-text-align-justify{text-align:justify;}
+</style>
+<link rel='stylesheet' id='jetpack-videopress-video-block-view-css' href='https://149810548.v2.pressablecdn.com/wp-content/plugins/jetpack/jetpack_vendor/automattic/jetpack-videopress/build/block-editor/blocks/video/view.css?minify=false&#038;ver=34ae973733627b74a14e' type='text/css' media='all' />
+<link rel='stylesheet' id='mediaelement-css' href='https://149810548.v2.pressablecdn.com/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.17' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css' href='https://149810548.v2.pressablecdn.com/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=6.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='classic-theme-styles-css' href='https://149810548.v2.pressablecdn.com/wp-includes/css/classic-themes.min.css?ver=6.2.2' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='contact-form-7-css' href='https://149810548.v2.pressablecdn.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.7.7' type='text/css' media='all' />
+<link rel='stylesheet' id='rotatingtweets-css' href='https://149810548.v2.pressablecdn.com/wp-content/plugins/rotatingtweets/css/style.css?ver=6.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css' href='https://149810548.v2.pressablecdn.com/wp-content/themes/ultimatum/assets/css/font-awesome.min.css?ver=6.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-global-css' href='https://149810548.v2.pressablecdn.com/wp-content/themes/ultimatum/assets/css/theme.global.css?ver=6.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='ult_core_template_2-css' href='https://149810548.v2.pressablecdn.com/wp-content/uploads/kra/template_2.css?ver=6.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='ult_core_layout_14-css' href='https://149810548.v2.pressablecdn.com/wp-content/uploads/kra/layout_14.css?ver=6.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='vc_plugin_table_style_css-css' href='https://149810548.v2.pressablecdn.com/wp-content/plugins/easy-tables-vc/assets/css/style.min.css?ver=2.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='vc_plugin_themes_css-css' href='https://149810548.v2.pressablecdn.com/wp-content/plugins/easy-tables-vc/assets/css/themes.min.css?ver=2.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='dhvc-form-font-awesome-css' href='https://149810548.v2.pressablecdn.com/wp-content/plugins/dhvc-form/assets/fonts/font-awesome/css/font-awesome.min.css?ver=4.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='dhvc-form-css' href='https://149810548.v2.pressablecdn.com/wp-content/plugins/dhvc-form/assets/css/style.css?ver=2.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='et-shortcodes-css-css' href='https://149810548.v2.pressablecdn.com/wp-content/plugins/et-shortcodes/css/shortcodes.css?ver=3.0' type='text/css' media='all' />
+<link rel='stylesheet' id='et-shortcodes-responsive-css-css' href='https://149810548.v2.pressablecdn.com/wp-content/plugins/et-shortcodes/css/shortcodes_responsive.css?ver=3.0' type='text/css' media='all' />
+<link rel='stylesheet' id='template_custom_2-css' href='https://149810548.v2.pressablecdn.com/wp-content/uploads/kra/template_custom_2.css?ver=6.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='layout_custom_14-css' href='https://149810548.v2.pressablecdn.com/wp-content/uploads/kra/layout_custom_14.css?ver=6.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css' href='https://149810548.v2.pressablecdn.com/wp-content/plugins/jetpack/css/jetpack.css?ver=12.4-a.7' type='text/css' media='all' />
+<link rel='stylesheet' id='lightboxStyle-css' href='https://149810548.v2.pressablecdn.com/wp-content/plugins/lightbox-plus/css/shadowed/colorbox.min.css?ver=2.7.2' type='text/css' media='screen' />
+<script type='text/javascript' src='https://149810548.v2.pressablecdn.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.4' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://149810548.v2.pressablecdn.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.0' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='https://149810548.v2.pressablecdn.com/wp-content/themes/ultimatum/assets/js/plugins/holder.js?ver=1.9.0' id='holder-js'></script>
+<link rel="https://api.w.org/" href="https://www.kra.com/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.kra.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.kra.com/wp-includes/wlwmanifest.xml" />
+
+
+<style>
+.scroll-back-to-top-wrapper {
+    position: fixed;
+	opacity: 0;
+	visibility: hidden;
+	overflow: hidden;
+	text-align: center;
+	z-index: 99999999;
+    background-color: #777777;
+	color: #eeeeee;
+	width: 50px;
+	height: 48px;
+	line-height: 48px;
+	right: 30px;
+	bottom: 30px;
+	padding-top: 2px;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+	border-bottom-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+	-webkit-transition: all 0.5s ease-in-out;
+	-moz-transition: all 0.5s ease-in-out;
+	-ms-transition: all 0.5s ease-in-out;
+	-o-transition: all 0.5s ease-in-out;
+	transition: all 0.5s ease-in-out;
+}
+.scroll-back-to-top-wrapper:hover {
+	background-color: #888888;
+  color: #eeeeee;
+}
+.scroll-back-to-top-wrapper.show {
+    visibility:visible;
+    cursor:pointer;
+	opacity: 0.7;
+}
+.scroll-back-to-top-wrapper i.fa {
+	line-height: inherit;
+}
+.scroll-back-to-top-wrapper .fa-lg {
+	vertical-align: 0;
+}
+</style>	<style>img#wpstats{display:none}</style>
+		<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<meta name="generator" content="Powered by Slider Revolution 6.6.14 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<script>function setREVStartSize(e){
+			//window.requestAnimationFrame(function() {
+				window.RSIW = window.RSIW===undefined ? window.innerWidth : window.RSIW;
+				window.RSIH = window.RSIH===undefined ? window.innerHeight : window.RSIH;
+				try {
+					var pw = document.getElementById(e.c).parentNode.offsetWidth,
+						newh;
+					pw = pw===0 || isNaN(pw) || (e.l=="fullwidth" || e.layout=="fullwidth") ? window.RSIW : pw;
+					e.tabw = e.tabw===undefined ? 0 : parseInt(e.tabw);
+					e.thumbw = e.thumbw===undefined ? 0 : parseInt(e.thumbw);
+					e.tabh = e.tabh===undefined ? 0 : parseInt(e.tabh);
+					e.thumbh = e.thumbh===undefined ? 0 : parseInt(e.thumbh);
+					e.tabhide = e.tabhide===undefined ? 0 : parseInt(e.tabhide);
+					e.thumbhide = e.thumbhide===undefined ? 0 : parseInt(e.thumbhide);
+					e.mh = e.mh===undefined || e.mh=="" || e.mh==="auto" ? 0 : parseInt(e.mh,0);
+					if(e.layout==="fullscreen" || e.l==="fullscreen")
+						newh = Math.max(e.mh,window.RSIH);
+					else{
+						e.gw = Array.isArray(e.gw) ? e.gw : [e.gw];
+						for (var i in e.rl) if (e.gw[i]===undefined || e.gw[i]===0) e.gw[i] = e.gw[i-1];
+						e.gh = e.el===undefined || e.el==="" || (Array.isArray(e.el) && e.el.length==0)? e.gh : e.el;
+						e.gh = Array.isArray(e.gh) ? e.gh : [e.gh];
+						for (var i in e.rl) if (e.gh[i]===undefined || e.gh[i]===0) e.gh[i] = e.gh[i-1];
+											
+						var nl = new Array(e.rl.length),
+							ix = 0,
+							sl;
+						e.tabw = e.tabhide>=pw ? 0 : e.tabw;
+						e.thumbw = e.thumbhide>=pw ? 0 : e.thumbw;
+						e.tabh = e.tabhide>=pw ? 0 : e.tabh;
+						e.thumbh = e.thumbhide>=pw ? 0 : e.thumbh;
+						for (var i in e.rl) nl[i] = e.rl[i]<window.RSIW ? 0 : e.rl[i];
+						sl = nl[0];
+						for (var i in nl) if (sl>nl[i] && nl[i]>0) { sl = nl[i]; ix=i;}
+						var m = pw>(e.gw[ix]+e.tabw+e.thumbw) ? 1 : (pw-(e.tabw+e.thumbw)) / (e.gw[ix]);
+						newh =  (e.gh[ix] * m) + (e.tabh + e.thumbh);
+					}
+					var el = document.getElementById(e.c);
+					if (el!==null && el) el.style.height = newh+"px";
+					el = document.getElementById(e.c+"_wrapper");
+					if (el!==null && el) {
+						el.style.height = newh+"px";
+						el.style.display = "block";
+					}
+				} catch(e){
+					console.log("Failure at Presize of Slider:" + e)
+				}
+			//});
+		  };</script>
+		<style type="text/css" id="wp-custom-css">
+			div.flex-rows .wpb_wrapper {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: flex-start;
+}		</style>
+		<noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>	<!-- Global site tag (gtag.js) - Google Analytics -->
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-69795600-1"></script>
+
+<script>
+
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag(){dataLayer.push(arguments);}
+
+  gtag('js', new Date());
+
+ 
+
+  gtag('config', 'UA-69795600-1');
+
+</script>
+	<script type="text/javascript">
+//<![CDATA[
+var pptheme = 'facebook';
+//]]>
+</script>	 
+</head>
+<body class="error404 wpb-js-composer js-comp-ver-6.13.0 vc_responsive  ut-tbs3-default ut-layout-blog-kra-news-page">
+<div class="clear"></div>
+<header class="headwrapper">
+<div class="ult-wrapper wrapper " id="wrapper-38">
+
+<div class="ult-container  container " id="container-38">
+<div class="row">
+		<div class="ult-column col-md-12 " id="col-38-1">
+			<div class="colwrapper"><div class="widget widget_text inner-container">			<div class="textwidget"></div>
+		</div></div>
+		</div>
+		</div></div>
+</div>
+<div class="ult-wrapper wrapper " id="wrapper-25">
+
+<div class="ult-container  container kra_menu" id="container-25">
+<div class="row">
+		<div class="ult-column col-md-9 kra_menu" id="col-25-1">
+			<div class="colwrapper"><div class="widget widget_ultimatummenu inner-container"><div class="ultimatum-menu-container" data-menureplacer="767"><div class="ultimatum-regular-menu"><script type="text/javascript">
+	//<![CDATA[
+	jQuery(document).ready(function($) {
+				ddsmoothmenu.init({
+			mainmenuid: "ultimatummenu-4-item",
+			orientation: 'h',
+			classname: 'ddsmoothmenuh',
+			contentsource: "markup"
+		})
+	});
+	//]]>
+</script>
+<style>.ddsmoothmenuh ul {float: left;}</style>
+<div class="ultimatum-nav">
+<div class=" ddsmoothmenuh" id="ultimatummenu-4-item">
+	<ul id="menu-primary-menu" class="menu"><li id="menu-item-71" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-71"><a href="https://www.kra.com/">Home</a></li>
+<li id="menu-item-91" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-91"><a href="https://www.kra.com/missionvision/">About</a>
+<ul class="sub-menu">
+	<li id="menu-item-75" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75"><a href="https://www.kra.com/missionvision/">Vision/Mission</a></li>
+	<li id="menu-item-82" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-82"><a href="https://www.kra.com/leadership-management/">Leadership &#038; Management</a></li>
+	<li id="menu-item-90" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-90"><a href="https://www.kra.com/the-kra-promise/">KRA Promise</a></li>
+	<li id="menu-item-7045" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7045"><a href="https://www.kra.com/careers-at-kra-corporation/">KRA Careers</a></li>
+	<li id="menu-item-7044" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7044"><a href="https://www.kra.com/kra-employee-benefits/">KRA Employee Benefits</a></li>
+</ul>
+</li>
+<li id="menu-item-108" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-108"><a href="https://www.kra.com/workforce-development-services/">Services</a>
+<ul class="sub-menu">
+	<li id="menu-item-6946" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6946"><a href="https://www.kra.com/workforce-development-services/">Overview</a></li>
+	<li id="menu-item-113" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113"><a href="https://www.kra.com/wioa-operations/">WIOA Program Operations</a></li>
+	<li id="menu-item-112" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-112"><a href="https://www.kra.com/tanf-employment/">TANF Employment Programs</a></li>
+	<li id="menu-item-111" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-111"><a href="https://www.kra.com/?page_id=104">Allied Health Training Programs</a></li>
+	<li id="menu-item-110" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-110"><a href="https://www.kra.com/labor-research-consulting/">Labor Market Research &#038; Consulting</a></li>
+</ul>
+</li>
+<li id="menu-item-281" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-281"><a href="https://www.kra.com/our-experience/">Our Experience</a>
+<ul class="sub-menu">
+	<li id="menu-item-6947" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6947"><a href="https://www.kra.com/our-experience/">Overview</a></li>
+	<li id="menu-item-197" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-197"><a href="https://www.kra.com/workforce-development/">Workforce Development Clients</a></li>
+	<li id="menu-item-195" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-195"><a href="https://www.kra.com/labor-market-research-and-consulting/">Labor Market Research &#038; Consulting Clients</a></li>
+	<li id="menu-item-196" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-196"><a href="https://www.kra.com/state-and-federal-non-profit/">Other Federal and State Clients</a></li>
+</ul>
+</li>
+<li id="menu-item-282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-282"><a href="https://www.kra.com/kra-models/">KRA Models</a>
+<ul class="sub-menu">
+	<li id="menu-item-6948" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6948"><a href="https://www.kra.com/kra-models/">Overview</a></li>
+	<li id="menu-item-202" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-202"><a href="https://www.kra.com/integrated-services/">Integrated Services</a></li>
+	<li id="menu-item-201" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-201"><a href="https://www.kra.com/business-engagement/">Business Engagement</a></li>
+	<li id="menu-item-203" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-203"><a href="https://www.kra.com/quality-customer-service/">Quality &#038; Customer Service</a></li>
+	<li id="menu-item-226" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-226"><a href="https://www.kra.com/regional-approach/">Regional Approach</a></li>
+</ul>
+</li>
+<li id="menu-item-283" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-283"><a href="https://www.kra.com/results/">Results</a>
+<ul class="sub-menu">
+	<li id="menu-item-7022" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7022"><a href="https://www.kra.com/results/">Overview</a></li>
+	<li id="menu-item-199" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-199"><a href="https://www.kra.com/integrated-services-results/">Integrated Services Results</a></li>
+	<li id="menu-item-198" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-198"><a href="https://www.kra.com/business-engagement-results/">Business Engagement Results</a></li>
+	<li id="menu-item-415" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-415"><a href="https://www.kra.com/quality-customer-service-results/">Quality &#038; Customer Service Results</a></li>
+	<li id="menu-item-378" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-378"><a href="https://www.kra.com/regional-model-results/">Regional Model Results</a></li>
+</ul>
+</li>
+<li id="menu-item-450" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-450"><a href="https://www.kra.com/social-newsroom/">Social Newsroom</a></li>
+<li id="menu-item-284" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-284"><a href="https://www.kra.com/community-involvement/">Community Involvement</a></li>
+<li id="menu-item-183" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-183"><a href="https://www.kra.com/contact/">Contact</a></li>
+<li id="menu-item-11377" class="nmr-logged-out menu-item menu-item-type-custom menu-item-object-custom menu-item-11377"><a href="https://www.kra.com/?option=saml_user_login">Login</a></li>
+</ul></div>
+</div>
+</div><style>
+    #ultimatummenu-4-responsive-menu .slicknav_btn {float:left}
+</style>
+<div style="display:none">
+    <ul id="ultimatummenu-4-resonsive" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-71"><a href="https://www.kra.com/">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-91"><a href="https://www.kra.com/missionvision/">About</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75"><a href="https://www.kra.com/missionvision/">Vision/Mission</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-82"><a href="https://www.kra.com/leadership-management/">Leadership &#038; Management</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-90"><a href="https://www.kra.com/the-kra-promise/">KRA Promise</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7045"><a href="https://www.kra.com/careers-at-kra-corporation/">KRA Careers</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7044"><a href="https://www.kra.com/kra-employee-benefits/">KRA Employee Benefits</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-108"><a href="https://www.kra.com/workforce-development-services/">Services</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6946"><a href="https://www.kra.com/workforce-development-services/">Overview</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113"><a href="https://www.kra.com/wioa-operations/">WIOA Program Operations</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-112"><a href="https://www.kra.com/tanf-employment/">TANF Employment Programs</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-111"><a href="https://www.kra.com/?page_id=104">Allied Health Training Programs</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-110"><a href="https://www.kra.com/labor-research-consulting/">Labor Market Research &#038; Consulting</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-281"><a href="https://www.kra.com/our-experience/">Our Experience</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6947"><a href="https://www.kra.com/our-experience/">Overview</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-197"><a href="https://www.kra.com/workforce-development/">Workforce Development Clients</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-195"><a href="https://www.kra.com/labor-market-research-and-consulting/">Labor Market Research &#038; Consulting Clients</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-196"><a href="https://www.kra.com/state-and-federal-non-profit/">Other Federal and State Clients</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-282"><a href="https://www.kra.com/kra-models/">KRA Models</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6948"><a href="https://www.kra.com/kra-models/">Overview</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-202"><a href="https://www.kra.com/integrated-services/">Integrated Services</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-201"><a href="https://www.kra.com/business-engagement/">Business Engagement</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-203"><a href="https://www.kra.com/quality-customer-service/">Quality &#038; Customer Service</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-226"><a href="https://www.kra.com/regional-approach/">Regional Approach</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-283"><a href="https://www.kra.com/results/">Results</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7022"><a href="https://www.kra.com/results/">Overview</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-199"><a href="https://www.kra.com/integrated-services-results/">Integrated Services Results</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-198"><a href="https://www.kra.com/business-engagement-results/">Business Engagement Results</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-415"><a href="https://www.kra.com/quality-customer-service-results/">Quality &#038; Customer Service Results</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-378"><a href="https://www.kra.com/regional-model-results/">Regional Model Results</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-450"><a href="https://www.kra.com/social-newsroom/">Social Newsroom</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-284"><a href="https://www.kra.com/community-involvement/">Community Involvement</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-183"><a href="https://www.kra.com/contact/">Contact</a></li>
+<li class="nmr-logged-out menu-item menu-item-type-custom menu-item-object-custom menu-item-11377"><a href="https://www.kra.com/?option=saml_user_login">Login</a></li>
+</ul></div>
+<div id="ultimatummenu-4-responsive-menu"  class="ultimatum-responsive-menu"></div>
+<script type="text/javascript">
+	//<![CDATA[
+	jQuery(document).ready(function() {
+	    jQuery('#ultimatummenu-4-resonsive').slicknav({
+            label:'',
+            allowParentLinks: true,            prependTo:'#ultimatummenu-4-responsive-menu'
+        });
+	});
+//]]>
+</script></div></div><div class="clearfix"></div></div>
+		</div>
+		<div class="ult-column col-md-3 " id="col-25-2">
+			<div class="colwrapper"><div class="widget widget_ultimatumwysiwyg inner-container"><form id="searchform" class="navbar-form navbar-right" action="https://www.kra.com/" method="get">
+<div class="form-group"><input id="s" class="form-control col-lg-8" name="s" type="text" value="" placeholder="Search" /></div>
+</form>
+</div></div>
+		</div>
+		</div></div>
+</div>
+</header>
+<div class="bodywrapper" id="bodywrapper">
+<div class="ult-wrapper wrapper " id="wrapper-35">
+
+<div class="ult-container  container " id="container-35">
+<div class="row">
+		<div class="ult-column col-md-8 " id="col-35-1">
+			<div class="colwrapper"><div class="inner-container"> 	<div id="content" role="main">
+ 	 	<p>Sorry, no posts matched your criteria.</p> 	</div>
+ 	</div></div>
+		</div>
+		<div class="ult-column col-md-4 " id="col-35-2">
+			<div class="colwrapper"><div class="widget widget_ultimatumimage inner-container"><img src="https://149810548.v2.pressablecdn.com/wp-content/uploads/2015/11/KRA_team.jpg" class="img-responsive" alt="https://149810548.v2.pressablecdn.com/wp-content/uploads/2015/11/KRA_team.jpg"/></div><div class="widget widget_ultimatumimage inner-container"><img src="https://149810548.v2.pressablecdn.com/wp-content/uploads/2015/11/sidebar_tag.jpg" class="img-responsive" alt="https://149810548.v2.pressablecdn.com/wp-content/uploads/2015/11/sidebar_tag.jpg"/></div><div class="default_txt_sb widget widget_text inner-container"> <h3 class="element-title">Categories</h3>			<div class="textwidget"><h4>CATEGORIES</h4>
+<a href="https://www.kra.com/category/community-involvement/">Community Involvement</a><br/>
+<a href="https://www.kra.com/category/company-news/">Company News</a><br/>
+<a href="https://www.kra.com/category/workforce-government/">Workforce & Government</a> <br/>
+<a href="https://www.kra.com/category/newsletters/">Newsletters</a></div>
+		</div></div>
+		</div>
+		</div></div>
+</div>
+</div>
+<footer class="footwrapper">
+<div class="ult-wrapper wrapper " id="wrapper-18">
+
+<div class="ult-container  container " id="container-18">
+<div class="row">
+		<div class="ult-column col-md-8 " id="col-18-1">
+			<div class="colwrapper"><div class="widget widget_ultimatumwysiwyg inner-container"><p><img class="kra_footer_logo" src="https://149810548.v2.pressablecdn.com/wp-content/uploads/2015/11/KRA_logo1.png" alt="KRA_logo" width="313" height="59" /></p>
+<p style="color: #ffffff;">KRA Corporation’s mission is simple: we provide businesses with a trained and reliable workforce by preparing jobseekers for today’s competitive workplace and global economy. Since 1981, KRA has supported the mission of federal, regional, state, and local agencies that are dedicated to improving the lives of individuals and strengthening the communities in which we live. Today, KRA is recognized as a national leader in workforce development for its <span style="color: #e69252; font-weight: bold;">innovative</span> solutions, <span style="color: #e69252; font-weight: bold;">exceptional</span> service, and <span style="color: #e69252; font-weight: bold;">trusted</span> results.</p>
+</div></div>
+		</div>
+		<div class="ult-column col-md-4 footer_menu" id="col-18-2">
+			<div class="colwrapper"><div class="widget widget_nav_menu inner-container"><div class="menu-footer-menu-container"><ul id="menu-footer-menu" class="menu"><li id="menu-item-268" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-268"><a href="https://www.kra.com/">Home</a></li>
+<li id="menu-item-269" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-269"><a href="https://www.kra.com/missionvision/">About</a></li>
+<li id="menu-item-270" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-270"><a href="https://www.kra.com/workforce-development-services/">Services</a></li>
+<li id="menu-item-271" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-271"><a href="https://www.kra.com/our-experience/">Our Experience</a></li>
+<li id="menu-item-272" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-272"><a href="https://www.kra.com/kra-models/">KRA Models</a></li>
+<li id="menu-item-273" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-273"><a href="https://www.kra.com/results/">Results</a></li>
+<li id="menu-item-449" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-449"><a href="https://www.kra.com/social-newsroom/">Social Newsroom</a></li>
+<li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275"><a href="https://www.kra.com/community-involvement/">Community Involvement</a></li>
+<li id="menu-item-276" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-276"><a href="https://www.kra.com/contact/">Contact</a></li>
+<li id="menu-item-11416" class="nmr-logged-out menu-item menu-item-type-post_type menu-item-object-page menu-item-11416"><a href="https://www.kra.com/employee-dashboard/">Employee Login</a></li>
+</ul></div></div></div>
+		</div>
+		</div></div>
+</div>
+<div class="ult-wrapper wrapper " id="wrapper-17">
+
+<div class="ult-container  container " id="container-17">
+<div class="row">
+		<div class="ult-column col-md-12 " id="col-17-1">
+			<div class="colwrapper"><div class="widget widget_ultimatumimage inner-container"><a href="#top" target="_self"><img src="https://149810548.v2.pressablecdn.com/wp-content/uploads/2015/11/backtop.png" class="img-responsive backtop" alt="Back to Top"/></a></div></div>
+		</div>
+		</div></div>
+</div>
+<div class="ult-wrapper wrapper " id="wrapper-19">
+
+<div class="ult-container  container " id="container-19">
+<div class="row">
+		<div class="ult-column col-md-12 " id="col-19-1">
+			<div class="colwrapper"><div class="widget widget_ultimatumwysiwyg inner-container"><p class="copyright"><strong>Copyright © <script type="text/javascript">document.write(new Date().getFullYear());</script> KRA Corporation | All Rights Reserved.</strong></p>
+</div></div>
+		</div>
+		</div></div>
+</div>
+</footer>
+
+		<script>
+			window.RS_MODULES = window.RS_MODULES || {};
+			window.RS_MODULES.modules = window.RS_MODULES.modules || {};
+			window.RS_MODULES.waiting = window.RS_MODULES.waiting || [];
+			window.RS_MODULES.defered = true;
+			window.RS_MODULES.moduleWaiting = window.RS_MODULES.moduleWaiting || {};
+			window.RS_MODULES.type = 'compiled';
+		</script>
+		<div class="scroll-back-to-top-wrapper">
+	<span class="scroll-back-to-top-inner">
+					<i class="fa fa-2x fa-arrow-circle-up"></i>
+			</span>
+</div><!-- Lightbox Plus Colorbox v2.7.2/1.5.9 - 2013.01.24 - Message: 1-->
+<script type="text/javascript">
+jQuery(document).ready(function($){
+  $("a[rel*=lightbox]").colorbox({initialWidth:"30%",initialHeight:"30%",maxWidth:"90%",maxHeight:"90%",opacity:0.8});
+  $(".lbp_secondary").colorbox({speed:300,innerWidth:"950px",innerHeight:"736px",initialWidth:false,initialHeight:false,maxWidth:"90%",maxHeight:"100%",opacity:0.8,iframe:true});
+});
+</script>
+<link rel='stylesheet' id='rs-plugin-settings-css' href='https://149810548.v2.pressablecdn.com/wp-content/plugins/revslider/public/assets/css/rs6.css?ver=6.6.14' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+#rs-demo-id {}
+</style>
+<script type='text/javascript' src='https://149810548.v2.pressablecdn.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.7.7' id='swv-js'></script>
+<script type='text/javascript' id='contact-form-7-js-extra'>
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/www.kra.com\/wp-json\/","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://149810548.v2.pressablecdn.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.7.7' id='contact-form-7-js'></script>
+<script type='text/javascript' src='https://149810548.v2.pressablecdn.com/wp-content/plugins/revslider/public/assets/js/rbtools.min.js?ver=6.6.14' defer async id='tp-tools-js'></script>
+<script type='text/javascript' src='https://149810548.v2.pressablecdn.com/wp-content/plugins/revslider/public/assets/js/rs6.min.js?ver=6.6.14' defer async id='revmin-js'></script>
+<script type='text/javascript' id='scroll-back-to-top-js-extra'>
+/* <![CDATA[ */
+var scrollBackToTop = {"scrollDuration":"500","fadeDuration":"0.5"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://149810548.v2.pressablecdn.com/wp-content/plugins/scroll-back-to-top/assets/js/scroll-back-to-top.js' id='scroll-back-to-top-js'></script>
+<script type='text/javascript' src='https://149810548.v2.pressablecdn.com/wp-content/plugins/surbma-smooth-scroll/js/jquery.scrollTo.min.js?ver=2.1.2' id='surbma-scrollTo-js'></script>
+<script type='text/javascript' src='https://149810548.v2.pressablecdn.com/wp-content/plugins/surbma-smooth-scroll/js/jquery.localScroll.min.js?ver=2.0.0' id='surbma-localScroll-js'></script>
+<script type='text/javascript' src='https://149810548.v2.pressablecdn.com/wp-content/plugins/surbma-smooth-scroll/js/surbma-smooth-scroll.js?ver=1.2' id='surbma-smooth-scroll-js'></script>
+<script type='text/javascript' src='https://149810548.v2.pressablecdn.com/wp-content/themes/ultimatum/assets/js/theme.global.tbs3.min.js?ver=2' id='theme-global-3-js'></script>
+<script type='text/javascript' src='https://149810548.v2.pressablecdn.com/wp-content/plugins/page-links-to/dist/new-tab.js?ver=3.3.6' id='page-links-to-js'></script>
+<script defer type='text/javascript' src='https://stats.wp.com/e-202330.js' id='jetpack-stats-js'></script>
+<script type='text/javascript' id='jetpack-stats-js-after'>
+_stq = window._stq || [];
+_stq.push([ "view", {v:'ext',blog:'53751226',post:'0',tz:'-4',srv:'www.kra.com',hp:'atomic',ac:'3',amp:'0',j:'1:12.4-a.7'} ]);
+_stq.push([ "clickTrackerInit", "53751226", "0" ]);
+</script>
+<script type='text/javascript' src='https://149810548.v2.pressablecdn.com/wp-content/plugins/lightbox-plus/js/jquery.colorbox.1.5.9-min.js?ver=1.5.9' id='jquery-colorbox-js'></script>
+<script type='text/javascript' src='https://149810548.v2.pressablecdn.com/wp-content/themes/ultimatum/assets/js/menus/ddsmoothmenu.js?ver=2.38' id='menu-ddsmooth-js'></script>
+		<script type="text/javascript">
+			(function() {
+			var t   = document.createElement( 'script' );
+			t.type  = 'text/javascript';
+			t.async = true;
+			t.id    = 'gauges-tracker';
+			t.setAttribute( 'data-site-id', '62e1fc8630d29f3924297054' );
+			t.src = '//secure.gaug.es/track.js';
+			var s = document.getElementsByTagName( 'script' )[0];
+			s.parentNode.insertBefore( t, s );
+			})();
+		</script>
+		
+</body>
+</html>
